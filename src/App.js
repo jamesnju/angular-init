@@ -5,8 +5,6 @@ function App() {
   return (
     <div className="App">feature-add-component
        <Map/>
-     Hellow
-    main
     </div>
   );
 }
